@@ -1,0 +1,12 @@
+{
+  "name": "pkg-pnpm-bug-example",
+  "version": "1.0.0",
+  "description": "An example project to show a bug with vercel's pkg and the pnpm package manager",
+  "main": "bin.js",
+  "bin": "bin.js",
+  "author": "NurMarvin",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
